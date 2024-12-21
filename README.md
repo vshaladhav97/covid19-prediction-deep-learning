@@ -6,7 +6,7 @@ Table of Contents
 # Dataset Description
 - Model Architecture
 - Installation
-- Usage
+- Usages
 - Results
 - Project Structure
 
