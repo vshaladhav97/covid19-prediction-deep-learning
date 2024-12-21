@@ -64,14 +64,17 @@ python src/predict.py
 - Successfully generates predictions for test data
 
 # Training Progress:
-CopyEpoch [100/1000], Loss: 15.1926
+```
+Epoch [100/1000], Loss: 15.1926
 Epoch [200/1000], Loss: 11.0573
 Epoch [300/1000], Loss: 9.6359
 ...
 Epoch [1000/1000], Loss: 8.5280
 
-# Project Structure
+```
 
+# Project Structure
+```
 ├── data/
 │   ├── covid.train.csv
 │   └── covid.test.csv
@@ -84,6 +87,7 @@ Epoch [1000/1000], Loss: 8.5280
 │   └── predictions.csv   # Model predictions
 ├── README.md
 └── requirements.txt
+```
 
 # Requirements
 - Python 3.x
