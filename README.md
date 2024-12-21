@@ -70,7 +70,8 @@ Epoch [300/1000], Loss: 9.6359
 ...
 Epoch [1000/1000], Loss: 8.5280
 
-#Project Structure
+# Project Structure
+
 ├── data/
 │   ├── covid.train.csv
 │   └── covid.test.csv
@@ -84,7 +85,7 @@ Epoch [1000/1000], Loss: 8.5280
 ├── README.md
 └── requirements.txt
 
-#Requirements
+# Requirements
 - Python 3.x
 - PyTorch
 - pandas
